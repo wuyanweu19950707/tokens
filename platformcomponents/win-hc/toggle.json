@@ -1,0 +1,48 @@
+{
+  "toggle": {
+    "toggled": {
+      "#normal": {
+        "background": "@theme-common-hc-highlight",
+        "thumb-tint": "@theme-common-hc-buttonFace",
+        "border": "@theme-common-hc-buttonText"
+      },
+      "#hovered": {
+        "background": "@theme-common-hc-buttonFace",
+        "thumb-tint": "@theme-common-hc-highlight",
+        "border": "@theme-common-hc-highlight"
+      },
+      "#pressed": {
+        "background": "@theme-common-hc-buttonFace",
+        "thumb-tint": "@theme-common-hc-highlight",
+        "border": "@theme-common-hc-highlight"
+      },
+      "#disabled": {
+        "background": "@theme-common-hc-grayText",
+        "thumb-tint": "@theme-common-hc-buttonFace",
+        "border": "@theme-common-hc-grayText"
+      }
+    },
+    "untoggled": {
+      "#normal": {
+        "background": "@theme-common-hc-buttonFace",
+        "thumb-tint": "@theme-common-hc-buttonFace",
+        "border": "@theme-common-hc-buttonText"
+      },
+      "#hovered": {
+        "background": "@theme-common-hc-highlight",
+        "thumb-tint": "@theme-common-hc-buttonFace",
+        "border": "@theme-common-hc-buttonText"
+      },
+      "#pressed": {
+        "background": "@theme-common-hc-highlight",
+        "thumb-tint": "@theme-common-hc-buttonFace",
+        "border": "@theme-common-hc-buttonText"
+      },
+      "#disabled": {
+        "background": "@theme-common-hc-buttonFace",
+        "thumb-tint": "@theme-common-hc-buttonFace",
+        "border": "@theme-common-hc-grayText"
+      }
+    }
+  }
+}
