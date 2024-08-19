@@ -8,7 +8,7 @@
       "textsecondary": "@color-theme-text-secondary-normal",
       "textsecondarycompany": "@color-theme-text-warning-normal",
       "textmissed": "@color-theme-text-error-normal",
-      "tick": "@color-theme-control-active-normal",
+      "tick": "@color-theme-text-accent-normal",
       "icon": "@color-theme-text-primary-normal",
       "dotdivider": "@color-theme-outline-primary-normal"
     },
@@ -18,7 +18,7 @@
       "textsecondary": "@color-theme-text-secondary-normal",
       "textsecondarycompany": "@color-theme-text-warning-normal",
       "textmissed": "@color-theme-text-error-normal",
-      "tick": "@color-theme-control-active-normal",
+      "tick": "@color-theme-text-accent-normal",
       "icon": "@color-theme-text-primary-normal",
       "dotdivider": "@color-theme-outline-primary-normal"
     },
@@ -27,7 +27,7 @@
       "textprimary": "@color-theme-text-primary-normal",
       "textsecondary": "@color-theme-text-secondary-normal",
       "textsecondarycompany": "@color-theme-text-warning-normal",
-      "tick": "@color-theme-control-active-normal",
+      "tick": "@color-theme-text-accent-normal",
       "icon": "@color-theme-text-primary-normal",
       "dotdivider": "@color-theme-outline-primary-normal"
     },
@@ -37,7 +37,7 @@
       "textsecondary": "@color-theme-text-secondary-normal",
       "textsecondarycompany": "@color-theme-text-warning-normal",
       "textmissed": "@color-theme-text-error-normal",
-      "tick": "@color-theme-control-active-normal",
+      "tick": "@color-theme-text-accent-normal",
       "icon": "@color-theme-text-primary-normal",
       "dotdivider": "@color-theme-outline-primary-normal"
     },
